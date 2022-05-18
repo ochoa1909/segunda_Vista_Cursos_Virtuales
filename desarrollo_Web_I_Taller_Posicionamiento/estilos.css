@@ -1,0 +1,250 @@
+.encavezado {
+    position: relative;
+    top: 5px;
+    left: 20px;
+    height: 30px;
+    width: 95%;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    
+}
+
+.encavezado .logo{
+position: absolute;
+top: 10px;
+left: 10px;
+}
+
+.mi_logo{
+    position: relative;
+  
+    width: 10%;
+    
+}
+
+.encavezado .nombre_empresa{
+position: absolute;
+top: 10px;
+left: 80px;
+}
+
+.encavezado .busqueda{
+position: absolute;
+top: 10px;
+left: 20%;
+width: 50%;
+
+}
+
+.redes_sociales .logo_youtube{
+    position: absolute;
+    top: 10px;
+    left: 72%;
+    width: 10%;
+    
+} 
+
+.youtube{
+    position: absolute;
+    top: 0px;
+    width: 35%;
+    left: 15%;
+}
+.redes_sociales .logo_facebook{
+    position: absolute;
+    top: 10px;
+    left: 80%;
+    width: 10%;
+    
+} 
+
+.facebook{
+    position: absolute;
+    top: 0px;
+    width: 35%;
+    left: 15%;
+}
+
+.redes_sociales .logo_instagran{
+    position: absolute;
+    top: 10px;
+    left: 90%;
+    width: 10%;
+    
+} 
+
+.instagran{
+    position: absolute;
+    top: 0px;
+    width: 35%;
+    left: 15%;
+}
+
+.cuerpo_1{
+    position: absolute;
+    display: flex;
+    top: 90px;
+    left: 70px;
+    
+}
+
+
+.cuerpo_1 .informacion{
+    width: 38%;
+}
+
+.cuerpo_1 .fotos_muestra{
+    position: relative;
+    left: 19%;
+    width: 50%;
+}
+
+.cuerpo_1 .fotos_muestra .imagen_muestra{
+    position: relative;
+    width: 60%;
+    left: 10px;
+}
+
+.contenido_del_curso{
+    position: absolute;
+    top: 800px;
+    left: 50px;
+
+background: rgb(216, 204, 205);;
+}
+
+
+
+.cuerpo_2_1{
+    position: relative;
+    display: flex;
+    top: 485px;
+    left: 70px;
+    border: 1px solid #414141;
+    width: 50%;
+}
+
+.cuerpo_2_2{
+    position: relative;
+    display: flex;
+    top: 510px;
+    left: 70px;
+    border: 1px solid #414141;
+    width: 50%;
+}
+
+.cuerpo_2_2 .imagen_otros_cusos .imagen_otros_cusos{
+    position: relative;
+    width: 20%;
+    left: 10px;
+}
+
+.cuerpo_2_2 .descripcion_curso_1{
+    position:absolute;
+    left: 20%;
+    top: 55px;
+}
+.cuerpo_2_2 .precio_1{
+    position: absolute;
+    left: 65%;
+    top: 72px;
+}
+
+.cuerpo_2_2 .corazon1{
+    position: absolute;
+    left: 85%;
+    top: 95px;
+}
+
+.corazon{
+    position: relative;
+    width: 40%;
+    left: 15%;
+    
+}
+
+
+
+.cuerpo_2_2 .descripcion_curso_2{
+    position:absolute;
+    left: 20%;
+    top: 180px;
+}
+.cuerpo_2_2 .precio_2{
+    position: absolute;
+    left: 65%;
+    top: 185px;
+}
+
+.cuerpo_2_2 .corazon2{
+    position: absolute;
+    left: 85%;
+    top: 200px;
+}
+
+
+
+.cuerpo_2_2 .descripcion_curso_3{
+    position:absolute;
+    left: 20%;
+    top: 290px;
+}
+.cuerpo_2_2 .precio_3{
+    position: absolute;
+    left: 65%;
+    top: 295px;
+}
+
+.cuerpo_2_2 .corazon3{
+    position: absolute;
+    left: 85%;
+    top: 310px;
+}
+
+
+.cuerpo_2_3{
+    position: absolute;
+    top: 555px;
+    left: 60%;
+    border: 1px solid #414141;
+    width: 30%;
+    height: 562px;
+}
+
+.cuerpo_2_3 .cuerpo_2_3-precio{
+    position: relative;
+    left: 30px;
+}
+
+.cuerpo_2_3 .cuerpo_2_3-button_compra{
+    position: relative;
+  top: 20px;
+  left: 10%;
+}
+
+.btn-outline-success_cuerpo_2_3{
+    width: 80%;
+}
+.cuerpo_2_3 .cuerpo_2_3-Comenzar{
+    position: relative;
+    top: 50px;
+  left: 10%;
+}
+
+
+
+.cuerpo_2_3 .cuerpo_2_3-imformacion{
+    position: relative;
+    top: 60px;
+    left: 10%;
+    
+}
+
+
+
+
+
+
+
+
